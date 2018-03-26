@@ -18,6 +18,7 @@ public class NomeTeste {
         System.out.println("Teste");
         System.out.println("Teste2");
         System.out.println("Test1");
+        System.out.println("Test3");
     }
     
 }
