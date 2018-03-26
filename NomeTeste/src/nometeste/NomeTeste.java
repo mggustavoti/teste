@@ -18,7 +18,11 @@ public class NomeTeste {
         System.out.println("Teste");
         System.out.println("Teste2");
         System.out.println("Test1");
+<<<<<<< HEAD
         System.out.println("Test3");
+=======
+        System.out.println("Teste4");
+>>>>>>> origin/master
     }
     
 }
