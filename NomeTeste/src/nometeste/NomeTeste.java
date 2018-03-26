@@ -22,6 +22,7 @@ public class NomeTeste {
         System.out.println("Teste4");
         
         System.out.println("Teste6");
+        System.out.println("Teste5");
     }
     
 }
