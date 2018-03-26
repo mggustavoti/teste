@@ -20,6 +20,8 @@ public class NomeTeste {
         System.out.println("Test1");
         System.out.println("Test3");
         System.out.println("Teste4");
+        
+        System.out.println("Teste6");
     }
     
 }
