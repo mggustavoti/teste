@@ -19,6 +19,8 @@ public class NomeTeste {
         System.out.println("Teste2");
         System.out.println("Test1");
         System.out.println("Teste4");
+        
+        System.out.println("Teste5");
     }
     
 }
